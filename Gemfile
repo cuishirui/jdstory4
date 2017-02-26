@@ -39,7 +39,7 @@ group :development do
   gem 'bootstrap-sass'
   gem 'devise'
   gem 'simple_form'
-  
+  gem 'font-awesome-rails'
   # Access an IRB console on exception pages or by using <%= console %> anywhere in the code.
   gem 'web-console'
   gem 'listen', '~> 3.0.5'
