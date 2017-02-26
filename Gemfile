@@ -38,6 +38,7 @@ end
 group :development do
   gem 'bootstrap-sass'
   gem 'devise'
+  gem 'simple_form'
   
   # Access an IRB console on exception pages or by using <%= console %> anywhere in the code.
   gem 'web-console'
